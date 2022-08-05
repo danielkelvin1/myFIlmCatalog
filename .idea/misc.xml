@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Android Experts/MyFilmCatalog/app/src/main/res/drawable/bg_circle.xml" value="0.127" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Android Experts/MyFilmCatalog/app/src/main/res/drawable/bg_round.xml" value="0.127" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Android Experts/MyFilmCatalog/app/src/main/res/drawable/bg_search.xml" value="0.127" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Android Experts/MyFilmCatalog/app/src/main/res/drawable/bg_top_round.xml" value="0.127" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Android Experts/MyFilmCatalog/app/src/main/res/drawable/ic_back.xml" value="0.127" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Android Experts/MyFilmCatalog/app/src/main/res/drawable/ic_favorite.xml" value="0.127" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Android Experts/MyFilmCatalog/app/src/main/res/drawable/ic_movie.xml" value="0.127" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Android Experts/MyFilmCatalog/app/src/main/res/drawable/ic_people.xml" value="0.127" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Android Experts/MyFilmCatalog/app/src/main/res/drawable/ic_search.xml" value="0.127" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Android Experts/MyFilmCatalog/app/src/main/res/drawable/ic_stars.xml" value="0.127" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Android Experts/MyFilmCatalog/app/src/main/res/drawable/ic_tv.xml" value="0.127" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Android Experts/MyFilmCatalog/app/src/main/res/layout/activity_detail.xml" value="0.25" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Android Experts/MyFilmCatalog/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Android Experts/MyFilmCatalog/app/src/main/res/layout/activity_splash_screen.xml" value="0.18125" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Android Experts/MyFilmCatalog/app/src/main/res/layout/detail_content.xml" value="0.22" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Android Experts/MyFilmCatalog/app/src/main/res/layout/fragment_favorite.xml" value="0.1671875" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Android Experts/MyFilmCatalog/app/src/main/res/layout/fragment_home.xml" value="0.18125" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Android Experts/MyFilmCatalog/app/src/main/res/layout/fragment_movie.xml" value="0.22" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Android Experts/MyFilmCatalog/app/src/main/res/layout/fragment_search_movies.xml" value="0.21928166351606806" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Android Experts/MyFilmCatalog/app/src/main/res/layout/fragment_tv.xml" value="0.18125" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Android Experts/MyFilmCatalog/app/src/main/res/layout/item_cast.xml" value="0.25" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Android Experts/MyFilmCatalog/app/src/main/res/layout/item_cast_placeholder.xml" value="0.18125" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Android Experts/MyFilmCatalog/app/src/main/res/layout/item_film.xml" value="0.5" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Android Experts/MyFilmCatalog/app/src/main/res/layout/item_film_placeholder.xml" value="0.18125" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Android Experts/MyFilmCatalog/app/src/main/res/layout/item_list.xml" value="0.18125" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Android Experts/MyFilmCatalog/app/src/main/res/layout/rating_film.xml" value="0.18125" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Android Experts/MyFilmCatalog/app/src/main/res/layout/rating_film_placeholder.xml" value="0.25" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Android Experts/MyFilmCatalog/app/src/main/res/layout/shimmer_detail.xml" value="0.18125" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Android Experts/MyFilmCatalog/app/src/main/res/layout/shimmer_effect_film.xml" value="0.18125" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Android Experts/MyFilmCatalog/app/src/main/res/layout/shimmer_film_grid.xml" value="0.18125" />
+        <entry key="..\:/Users/DK/AndroidStudioProjects/Android Experts/MyFilmCatalog/app/src/main/res/menu/bottom_nav_menu.xml" value="0.18125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">My Film Catalog</string>
+    <string name="my_film_catalog">My Film Catalog</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movies">Movies</string>
+    <string name="title_movie">Movie</string>
+    <string name="tv">Tv</string>
+    <string name="favorite">Favorite</string>
+    <string name="movies_icon">this is a movie icon</string>
+    <string name="search_desc">this is a search icon to do a search</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="rating">0.0</string>
+    <string name="popular">Popular</string>
+    <string name="up_comming">Up Comming</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="airing_today">Airing Today</string>
+    <string name="tv_desc">this is a tv icon</string>
+    <string name="on_the_air">On The Air</string>
+    <string name="hint_search">Search...</string>
+    <string name="desc_backdrop">this is a backdrop image</string>
+    <string name="popularity">Popularity</string>
+    <string name="desc_film_poster">this is a film poster</string>
+    <string name="overview">Overview</string>
+    <string name="cast">Cast</string>
+    <string name="desc_cast">is the person who plays</string>
+    <string name="desc_fav">this a button favorite</string>
+</resources>
